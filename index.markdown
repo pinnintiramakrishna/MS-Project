@@ -4,6 +4,7 @@
 
 layout: home
 title: "Home"
+permalink: /
 ---
 <div style="background-color:#1c445f;width:850px;color:white;padding: 30px;">
 <span>
