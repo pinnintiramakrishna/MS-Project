@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-<div class="post-content">
+<div class="post-content" style="background-color:#1c445f;width:850px;color:white;padding: 30px;">
 <ul>
 <li>Sourcing industrial and construction machinery, equipment, building & finishing materials, industrial raw materials, chemicals, spare parts from dependable manufacturers</li>
 <li>Efficient Procurement services</li>
