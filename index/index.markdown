@@ -32,32 +32,32 @@ permalink: /home/
 <span>
 <table>
 <tr>
-<td><img src="/images/ERA plastic fittings.jpg" alt="" width="200px"/></td>
-<td><img src="/images/Faenza sanitary wares .jpg" alt="" width="200px"/></td>
-<td><img src="/images/Flexible packaging .JPG" alt="" width="200px"/></td>
-<td><img src="/images/Goldea interior doors.JPG" alt="" width="200px"/></td>
+<td><img src="../images/ERA plastic fittings.jpg" alt="" width="200px"/></td>
+<td><img src="../images/Faenza sanitary wares .jpg" alt="" width="200px"/></td>
+<td><img src="../images/Flexible packaging .JPG" alt="" width="200px"/></td>
+<td><img src="../images/Goldea interior doors.JPG" alt="" width="200px"/></td>
 </tr>
 <tr  style="background-color:#1c445f;">
-<td><img src="/images/Honny Gensets .JPG" alt="" width="200px"/></td>
-<td><img src="/images/Jolywood-Solar.jpg" alt="" width="200px"/></td>
-<td><img src="/images/Luli wooden boards .JPG" alt="" width="200px"/></td>
-<td><img src="/images/MAERSK SHIPPING Lines.JPG" alt="" width="200px"/></td>
+<td><img src="../images/Honny Gensets .JPG" alt="" width="200px"/></td>
+<td><img src="../images/Jolywood-Solar.jpg" alt="" width="200px"/></td>
+<td><img src="../images/Luli wooden boards .JPG" alt="" width="200px"/></td>
+<td><img src="../images/MAERSK SHIPPING Lines.JPG" alt="" width="200px"/></td>
 </tr>
 <tr>
-<td><img src="/images/Marco Polo tiles.jpg" alt="" width="200px"/></td>
-<td><img src="/images/Sheet glass.JPG" alt="" width="200px"/></td>
-<td><img src="/images/COSCO Shipping Lines.PNG" alt="" width="200px"/></td>
-<td><img src="/images/GI plumbing fittings .PNG" alt="" width="200px"/></td>
+<td><img src="../images/Marco Polo tiles.jpg" alt="" width="200px"/></td>
+<td><img src="../images/Sheet glass.JPG" alt="" width="200px"/></td>
+<td><img src="../images/COSCO Shipping Lines.PNG" alt="" width="200px"/></td>
+<td><img src="../images/GI plumbing fittings .PNG" alt="" width="200px"/></td>
 </tr>
 <tr  style="background-color:#1c445f;">
-<td><img src="/images/JMA ALUMINUM .PNG" alt="" width="200px"/></td>
-<td><img src="/images/MSC shipping Line.png" alt="" width="200px"/></td>
-<td><img src="/images/Oppien cabinets & Closets.PNG" alt="" width="200px"/></td>
-<td><img src="/images/Plastic extrusion machinery .png" alt="" width="200px"/></td>
+<td><img src="../images/JMA ALUMINUM .PNG" alt="" width="200px"/></td>
+<td><img src="../images/MSC shipping Line.png" alt="" width="200px"/></td>
+<td><img src="../images/Oppien cabinets & Closets.PNG" alt="" width="200px"/></td>
+<td><img src="../images/Plastic extrusion machinery .png" alt="" width="200px"/></td>
 </tr>
 <tr>
-<td><img src="/images/Solar.PNG" alt="" width="200px"/></td>
-<td><img src="/images/SWORD Elevators.WEBP" alt="" width="200px"/></td>
+<td><img src="../images/Solar.PNG" alt="" width="200px"/></td>
+<td><img src="../images/SWORD Elevators.WEBP" alt="" width="200px"/></td>
 </tr>
 </table>
 </span>
